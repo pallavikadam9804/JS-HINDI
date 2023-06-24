@@ -1,0 +1,28 @@
+"use strict"; // treats all JS code as newer version//
+
+//alert (3 + 3) //we are using nodejs, not browser//
+
+console.log( 25 / 5 )
+  
+// code readablity should be high//
+
+console.log("Pallavi")
+
+let name = "Pallavi"
+let age = 19
+let isLoggedIn = false
+
+// PREMITIVE DATATYPE //
+// number --> 2 to power 53
+// bigint --> large value
+// string --> ""
+// boolean --> true/false
+// null --> standalone value (empty value) (object)
+// undefined --> value not assigned (undefined is its self a type)
+// symbol --> to find uniqueness
+
+
+// object
+
+
+console.log(typeof null);
